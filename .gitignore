@@ -1,0 +1,6 @@
+.gemini/
+.git/
+assets/images/tmp/
+*.log
+.vscode/
+node_modules/
