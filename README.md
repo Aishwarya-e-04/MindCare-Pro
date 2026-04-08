@@ -1,6 +1,6 @@
 # 🧠 MindCare Pro | Premium AI Mental Health Sanctuary
 
-![Mental Health Demo](https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&q=80&w=1200)
+![Mental Health Demo]
 
 ## 🌟 Vision
 **MindCare Pro** is a high-frequency, AI-integrated clinical sanctuary designed to bridge the gap between patient self-care and professional medical oversight. It utilizes a **Neural Design System** to create a calming, professional environment for emotional recovery.
